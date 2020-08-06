@@ -1,0 +1,16 @@
+{
+  "name": "website",
+  "version": "1.0.1",
+  "description": "My website",
+  "dependencies": {
+    "@thecoder08/docuget": "^1.0.2",
+    "@thecoder08/http": "^1.1.3",
+    "@thecoder08/mailer": "^1.0.4",
+    "@thecoder08/markdown": "^1.0.3"
+  },
+  "scripts": {
+    "start": "sudo node server.js"
+  },
+  "author": "thecoder08",
+  "license": "MIT"
+}
