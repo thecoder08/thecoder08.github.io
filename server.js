@@ -2,7 +2,7 @@ var http = require('@thecoder08/http');
 var render = require('@thecoder08/markdown');
 var mail = require('@thecoder08/mailer');
 var fs = require('fs');
-http.secureServer(fs.readFileSync('/etc/letsencrypt/live/www.lennonswebsite.tk/fullchain.pem'), fs.readFileSync('/etc/letsencrypt/live/www.lennonswebsite.tk/privkey.pem'), 443, function(req, res, redirect) {
+http.server(8080, function(req, res, redirect) {
   if (req.pathname == '/refreshView') {
     res(200, 'text/html', render(decodeURI(req.query.questionData)));
   }

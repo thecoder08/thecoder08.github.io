@@ -9,7 +9,7 @@
     "@thecoder08/markdown": "^1.0.1"
   },
   "scripts": {
-    "start": "sudo node server.js"
+    "start": "node server.js"
   },
   "author": "thecoder08",
   "license": "MIT"
