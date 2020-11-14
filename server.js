@@ -2,7 +2,7 @@ var http = require('@thecoder08/http');
 var render = require('@thecoder08/markdown');
 var mail = require('@thecoder08/mailer');
 var fs = require('fs');
-http.server(8080, function(req, res, redirect) {
+http.server(process.env.PORT, function(req, res, redirect) {
   if (req.pathname == '/refreshView') {
     res(200, 'text/html', render(decodeURI(req.query.questionData)));
   }
