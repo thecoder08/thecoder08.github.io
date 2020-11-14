@@ -3,10 +3,10 @@
   "version": "1.0.1",
   "description": "My website",
   "dependencies": {
-    "@thecoder08/docuget": "^1.0.1",
-    "@thecoder08/http": "^1.0.1",
-    "@thecoder08/mailer": "^1.0.1",
-    "@thecoder08/markdown": "^1.0.1"
+    "https://github.com/thecoder08/docuget": "^1.0.1",
+    "https://github.com/thecoder08/http": "^1.0.1",
+    "https://github.com/thecoder08/mailer": "^1.0.1",
+    "https://github.com/thecoder08/markdown": "^1.0.1"
   },
   "scripts": {
     "start": "node server.js"
