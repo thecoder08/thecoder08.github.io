@@ -13,7 +13,7 @@ Currently, I'm just trying to keep myself from getting bored.
 ## Black Lives Matter
 This site has gone dark in support of <a href="blacklivesmatter.com">Black Lives Matter</a>.
 
-<span style="background-color: red; color: white;">Please maintain social distancing and wash your hands! We can stop COVID-19 by taking these simple measures. Stay home and stay safe.</span>
+<span style="background-color: red; color: white;">Please maintain social distancing, wash your hands, and wear a mask! We can stop COVID-19 by taking these simple measures. Stay home and stay safe.</span>
 
 <title>Lennon McLean</title>
 <script src="node_modules/@thecoder08/docuget/main.js"></script>
