@@ -11,7 +11,7 @@ Click [here](servers.md) to post about Math Shoot servers you are hosting, or to
 Currently, I'm just trying to keep myself from getting bored.  
 
 ## Black Lives Matter
-This site has gone dark in support of <a href="blacklivesmatter.com">Black Lives Matter</a>.
+This site has gone dark in support of <a href="https://www.blacklivesmatter.com">Black Lives Matter</a>.
 
 <span style="background-color: red; color: white;">Please maintain social distancing, wash your hands, and wear a mask! We can stop COVID-19 by taking these simple measures. Stay home and stay safe.</span>
 
