@@ -5,7 +5,7 @@ Click [here](projects.md) to see some of my projects.
 Click [here](music.md) to stream my music.  
 Click [here](bugs.md) to report bugs in one of my packages.  
 Click [here](thecoder08-de.md) for thecoder08-de documentation.  
-Click [here](math-shoot-download.md) to download the native version (no node.js install needed) of Math Shoot.  
+Click [here](math-shoot-download.md) to download Math Shoot.  
 Click [here](servers.md) to post about Math Shoot servers you are hosting, or to look for one if you're too lazy to host one. ;)
 ## What I'm working on
 Currently, I'm just trying to keep myself from getting bored.  
