@@ -57,8 +57,10 @@
 
 [![NPM](https://nodei.co/npm/htftp.png)](https://nodei.co/npm/htftp/)  
 
-Install [node.js](https://nodejs.org) to run my projects.  
-The README's for the projects are available on NPM. They contain instructions for installing and running my projects. Click the icons above to view them.
+![Math Shoot CLI](https://img.shields.io/badge/CLI-math--shoot-blue)  
+
+Install [node.js](https://nodejs.org) to run my CLI projects.  
+The README's for the projects are available on github. They contain instructions for installing and running my projects. Click the icons above to view them.
 
 Click [here](/) to return to the home page.
 <title>Projects</title>
