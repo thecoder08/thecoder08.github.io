@@ -58,6 +58,9 @@ http.server(process.env.PORT, function(req, res, redirect) {
         else if (filetype == 'mp3') {
           res(200, 'audio/mp3', data);
         }
+        else if (filetype == 'wav') {
+          res(200, 'audio/wav', data);
+        }
         else if (filetype == 'css') {
           res(200, 'text/css', data);
         }
