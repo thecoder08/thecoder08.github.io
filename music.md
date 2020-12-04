@@ -22,6 +22,6 @@
 ## New Age
 <audio controls src="new-age.wav"></audio>
 ## Avant Garde
-<audio controls src="avant-garde.wav"></audio>
+<audio controls src="avant-garde.wav"></audio>  
 Click [here](/) to return to the home page.
 <title>Music</title>
