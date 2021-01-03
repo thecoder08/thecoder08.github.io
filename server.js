@@ -71,7 +71,7 @@ http.server(process.env.PORT, function(req, res, redirect) {
           res(200, 'text/javascript', data);
         }
         else if (filetype == 'md') {
-          res(200, 'text/html', '<style>body { background-color: black; }</style>\n\n' + render(data.toString()));
+          res(200, 'text/html', render(data.toString()));
         }
         else if (filetype == 'json') {
           res(200, 'application/json', data)
