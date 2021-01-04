@@ -4,7 +4,7 @@
 [![Grady Game](https://img.shields.io/badge/CLI-grady--game-blue)](https://github.com/thecoder08/grady-game)  
 [![Math Shoot CLI](https://img.shields.io/badge/CLI-math--shoot--cli-blue)](https://github.com/thecoder08/math-shoot-cli)  
 [![Math Shoot GUI](https://img.shields.io/badge/GUI-math--shoot--gui-green)](https://github.com/thecoder08/math-shoot-gui)  
-[![Math Shoot Mobile](https://img.shields.io/badge/Mobile-math--shoot--mobile-puorple)](https://github.com/thecoder08/math-shoot-mobile)  
+[![Math Shoot Mobile](https://img.shields.io/badge/Mobile-math--shoot--mobile-purple)](https://github.com/thecoder08/math-shoot-mobile)  
 [![Helper](https://img.shields.io/badge/GUI-helper-green)](https://github.com/thecoder08/helper)  
 [![Robot GPIO Controller](https://img.shields.io/badge/Framework-robot--gpio--controller-red)](https://github.com/thecoder08/robot-gpio-controller)  
 [![HTFTP](https://img.shields.io/badge/CLI-htftp-blue)](https://github.com/thecoder08/htftp)  

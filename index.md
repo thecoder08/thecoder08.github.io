@@ -8,7 +8,7 @@ Click [here](thecoder08-de.md) for thecoder08-de documentation.
 Click [here](math-shoot-download.md) to download Math Shoot.  
 Click [here](servers.md) to post about Math Shoot servers you are hosting, or to look for one if you're too lazy to host one. ;)
 ## What I'm working on
-I've been reading about jailbreaking and iOS development. In the near future, you may be able to find an app for iOS on my projects page!
+I've been reading about jailbreaking and iOS development. You should be able to find an app for iOS on my projects page!
 
 <span style="background-color: red; color: white;">Please maintain social distancing, wash your hands, and wear a mask! We can stop COVID-19 by taking these simple measures. Stay home and stay safe.</span>
 
