@@ -12,9 +12,11 @@ If you aren't Debian-based or don't prefer package managers, then use this downl
 ## Windows
 [Download](https://github.com/thecoder08/math-shoot-gui/releases/download/v1.0.2/math-shoot-gui_1.0.2_win.zip)  
 Unfortunately, there's no installer for Windows. Unzip, and run the file `mathshoot.exe`.
-
 # Old versions
 Download old versions from [GitHub](https://github.com/thecoder08/math-shoot-gui/releases).
+# Mobile Version!
+[Download](https://github.com/thecoder08/math-shoot-mobile/releases/download/v1.0.2/tk.lennonswebsite.mathshoot.deb)  
+This is exciting: Math Shoot is now available for mobile!
 
 Click [here](/) to return to the home page.
 
