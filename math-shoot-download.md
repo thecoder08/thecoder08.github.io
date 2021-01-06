@@ -1,4 +1,6 @@
 # Math Shoot Download
+Math Shoot is a cross-platform computer and iOS mobile game where you fight each other and answer math questions!
+
 Please note that 64-bit computers are required for all downloads.
 ## Debian-based Linux
 [Download](https://github.com/thecoder08/math-shoot-gui/releases/download/v1.0.2/math-shoot-gui_1.0.2_debian.deb)  
