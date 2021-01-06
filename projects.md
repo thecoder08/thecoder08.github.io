@@ -16,6 +16,7 @@
 [![Hello World](https://img.shields.io/badge/CLI-helloworld-blue)](https://github.com/thecoder08/helloworld)  
 [![Glizzy Gobbler Game](https://img.shields.io/badge/GUI-glizzy--gobbler--game-green)](https://github.com/thecoder08/glizzy-gobbler-game)  
 [![Bam Coast](https://img.shields.io/badge/GUI-bam--coast-green)](https://github.com/thecoder08/bam-coast)  
+[![Glizzy Gobbler Game Mobile](https://img.shields.io/badge/Mobile-glizzy--gobbler--game--mobile-purple)](https://github.com/thecoder08/glizzy-gobbler-game-mobile)
 
 Install [node.js](https://nodejs.org) to run my CLI projects.  
 The README's for the projects are available on github. They contain instructions for installing and running my projects. Click the icons above to view them.
