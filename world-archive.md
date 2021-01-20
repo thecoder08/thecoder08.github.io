@@ -3,10 +3,10 @@
 ## Season 1
 Download coming soon!
 ## Season 2
-World got corruted due to a server error. It was fine though because we were still early in the game.
+World got corrupted due to a server error. It was fine though because we were still early in the game.
 ## Season 3
 Download coming soon!
-## SaltyCraft Season 1
+## Saltycraft Season 1
 In progress!
 
 Click [here](/) to return to the home page.
