@@ -5,7 +5,7 @@ Download coming soon!
 ## Season 2
 World got corrupted due to a server error. It was fine though because we were still early in the game.
 ## Season 3
-Download coming soon!
+[Download](https://raw.githubusercontent.com/thecoder08/neocraft-archive/master/season3.zip)
 ## Saltycraft Season 1
 In progress!
 
