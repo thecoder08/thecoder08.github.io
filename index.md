@@ -13,6 +13,8 @@ I've been reading about jailbreaking and iOS development. You should be able to 
 
 <span style="background-color: red; color: white;">Please maintain social distancing, wash your hands, and wear a mask! We can stop COVID-19 by taking these simple measures. Stay home and stay safe.</span>
 
+This website was made with ♥.  
+Copyright © Lennon McLean 2021. All rights reserved.
 <title>Lennon McLean</title>
 <script src="node_modules/@thecoder08/docuget/main.js"></script>
 <script>$('#age').innerHTML = new Date().getFullYear() - 2008;</script>
