@@ -15,7 +15,7 @@
 [![HTTP](https://img.shields.io/badge/Framework-http-red)](https://github.com/thecoder08/http)  
 [![Hello World](https://img.shields.io/badge/CLI-helloworld-blue)](https://github.com/thecoder08/helloworld)  
 [![Glizzy Gobbler Game](https://img.shields.io/badge/GUI-glizzy--gobbler--game-green)](https://github.com/thecoder08/glizzy-gobbler-game)  
-[![Bam Coast](https://img.shields.io/badge/GUI-bam--coast-green)](https://github.com/thecoder08/bam-coast)  
+[![Platformer](https://img.shields.io/badge/GUI-platformer-green)](https://github.com/thecoder08/platformer)  
 [![Glizzy Gobbler Game Mobile](https://img.shields.io/badge/Mobile-glizzy--gobbler--game--mobile-purple)](https://github.com/thecoder08/glizzy-gobbler-game-mobile)  
 [![Neocraft Archive](https://img.shields.io/badge/GUI-neocraft--archive-green)](https://github.com/thecoder08/neocraft-archive)
 
