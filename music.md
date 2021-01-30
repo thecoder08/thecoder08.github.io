@@ -22,6 +22,10 @@
 ## New Age
 <audio controls src="new-age.wav"></audio>
 ## Avant Garde
-<audio controls src="avant-garde.wav"></audio>  
+<audio controls src="avant-garde.wav"></audio>
+## Wii Shop Channel Theme
+<audio controls src="wii-store.mp3"></audio>  
+NOTE: This was not made by me! This is a cover by Charles Cornell. I just edited it from [the video](https://www.youtube.com/watch?v=5RS3bO9dW84) and looped it.
+
 Click [here](/) to return to the home page.
 <title>Music</title>
