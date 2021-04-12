@@ -18,7 +18,8 @@
 [![Platformer](https://img.shields.io/badge/GUI-platformer-green)](https://github.com/thecoder08/platformer)  
 [![Glizzy Gobbler Game Mobile](https://img.shields.io/badge/Mobile-glizzy--gobbler--game--mobile-purple)](https://github.com/thecoder08/glizzy-gobbler-game-mobile)  
 [![Neocraft Archive](https://img.shields.io/badge/GUI-neocraft--archive-green)](https://github.com/thecoder08/neocraft-archive)  
-[![Coyote](https://img.shields.io/badge/CLI-coyote-blue)](https://github.com/thecoder08/coyote)
+[![Coyote](https://img.shields.io/badge/CLI-coyote-blue)](https://github.com/thecoder08/coyote)  
+[![Simple Bootloader](https://img.shields.io/badge/Framework-simple--bootloader-red)](https://github.com/thecoder08/simple-bootloader)
 
 Install [node.js](https://nodejs.org) to run my CLI projects.  
 The README's for the projects are available on github. They contain instructions for installing and running my projects. Click the icons above to view them.
