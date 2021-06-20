@@ -9,7 +9,7 @@ Click [here](servers.md) to post about Math Shoot servers you are hosting, or to
 Click [here](world-archive.md) to get the world download for our Minecraft server, Neocraft.  
 Click [here](robot.md) to add my discord bot, Ro.Bot.
 ## What I'm working on
-I've been reading about jailbreaking and iOS development. You should be able to find an app for iOS on my projects page!
+Right now I'm working on a game by myself and Noah Bell, (aka. [WHERES-HARRY](https://github.com/WHERES-HARRY))
 
 <span style="background-color: red; color: white;">Please maintain social distancing, wash your hands, and wear a mask! We can stop COVID-19 by taking these simple measures. Stay home and stay safe.</span>
 
