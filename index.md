@@ -18,4 +18,4 @@ This website was made with ♥.
 Copyright © Lennon McLean 2021. All rights reserved.
 <title>Lennon McLean</title>
 <script src="node_modules/@thecoder08/docuget/main.js"></script>
-<script>$('#age').innerHTML = new Date().getFullYear() - 2008;</script>
+<script>$('#age').innerHTML = new Date().getFullYear() - 2000;</script>
