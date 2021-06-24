@@ -1,3 +1,4 @@
+<script data-ad-client="ca-pub-1978340545024187" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 # Lennon McLean
 Lennon McLean is a wannabe programmer who finds back-end node.js development and front-end web development interesting, and is <span style="color: red;" id="age"></span> years old. He also likes to play music.  
 Click [here](social.md) to see my social accounts.  
