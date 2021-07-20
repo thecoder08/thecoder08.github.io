@@ -10,3 +10,5 @@ World got corrupted due to a server error. It was fine though because we were st
 [Download](https://github.com/thecoder08/neocraft-archive/releases/download/4/season4.zip)
 
 Click [here](/) to return to the home page.
+
+<title>Neocraft World Archive</title>
