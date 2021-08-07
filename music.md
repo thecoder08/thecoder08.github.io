@@ -30,6 +30,8 @@
 NOTE: This was not made by me! This is a cover by Charles Cornell. I just edited it from [the video](https://www.youtube.com/watch?v=5RS3bO9dW84) and looped it.
 ## Cuz
 <audio controls src="cuz.wav"></audio>
+## Pollution
+<audio controls src="Pollution.mp3"></audio>
 
 Click [here](/) to return to the home page.
 <title>Music</title>
