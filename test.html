@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Geolocation test</title>
+  </head>
+  <body>
+    <h1>Geolocation test</h1>
+    <p>Longitude: <span id="long"></span></p>
+    <p>Latitude: <span id="lat"></span></p>
+    <p>Heading: <span id="head"></span></p>
+    <script>
+      var long = document.querySelector('#long');
+      var lat = document.querySelector('#lat');
+      var head = document.querySelector('#head');
+      setInterval(function() {
+        if (navigator.geolocation) {
+          navigator.geolocation.getCurrentPosition(function(position) {
+            long.innerHTML = position.coords.longitude;
+            lat.innerHTML = position.coords.latitude;
+          });
+        }
+        else {
+          long.innerHTML = 'Geolocation is not supported.';
+          lat.innerHTML = 'Geolocation is not supported.';
+        }
+      }, 500);
+    </script>
+  </body>
+</html>
