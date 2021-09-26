@@ -24,6 +24,18 @@
           long.innerHTML = 'Geolocation is not supported.';
           lat.innerHTML = 'Geolocation is not supported.';
         }
+        if (window.DeviceOrientationEvent) {
+          window.addEventListener('deviceorientation', function(eventData) {
+            if (event.webkitCompassHeading) {
+              // Apple works only with this, alpha doesn't work
+              head.innerHTML = event.webkitCompassHeading;  
+            }
+            else head.innerHTML = event.alpha;
+          });
+        }
+        else {
+          head.innerHTML = 'Compass heading is not supported';
+        }
       }, 500);
     </script>
   </body>
