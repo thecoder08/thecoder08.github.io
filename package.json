@@ -5,7 +5,6 @@
   "dependencies": {
     "@thecoder08/docuget": "thecoder08/docuget",
     "@thecoder08/http": "thecoder08/http",
-    "@thecoder08/mailer": "thecoder08/mailer",
     "@thecoder08/markdown": "thecoder08/markdown"
   },
   "scripts": {
