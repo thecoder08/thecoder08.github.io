@@ -7,6 +7,7 @@
 <img src="https://app.snapchat.com/web/deeplink/snapcode?username=lennon_mclean&type=SVG&size=240" alt="Snapcode" width="100px">
 [<img src="https://www.instagram.com/favicon.ico" alt="Instagram" width="100px">](https://www.instagram.com/thecoder08/)
 [<img src="https://mail.google.com/favicon.ico" alt="Gmail" width="100px">](mailto:lmmclean08@gmail.com)  
+[<img src="https://www.github.com/favicon.ico" alt="Github" width="100px">](https://www.github.com/thecoder08)  
 Click [here](/) to return to the home page.  
 
 <title>Social</title>
