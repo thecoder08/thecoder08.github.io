@@ -2,22 +2,6 @@ var http = require('@thecoder08/http');
 var render = require('@thecoder08/markdown');
 var fs = require('fs');
 http.server(process.env.PORT, function(req, res, redirect) {
-  if (req.pathname == '/refreshView') {
-    res(200, 'text/html', render(decodeURI(req.query.questionData)));
-  }
-  else if (req.pathname == '/addserver') {
-    fs.readFile('serverdb.json', function(err, data) {
-      var servers = JSON.parse(data);
-      servers.push({
-        name: req.query.name,
-        address: req.query.address,
-        owner: req.query.owner
-      });
-      fs.writeFile('serverdb.json', JSON.stringify(servers), function(err) {});
-      res(200, 'text/plain', 'server added');
-    });
-  }
-  else {
     var filepath = __dirname + req.pathname;
     if (req.pathname == '/') {
       filepath = __dirname + '/index.md';
@@ -65,5 +49,4 @@ http.server(process.env.PORT, function(req, res, redirect) {
         }
       }
     });
-  }
 });
