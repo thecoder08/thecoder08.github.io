@@ -1,28 +1,9 @@
 var http = require('@thecoder08/http');
 var render = require('@thecoder08/markdown');
-var mail = require('@thecoder08/mailer');
 var fs = require('fs');
 http.server(process.env.PORT, function(req, res, redirect) {
   if (req.pathname == '/refreshView') {
     res(200, 'text/html', render(decodeURI(req.query.questionData)));
-  }
-  else if (req.pathname == '/submitQuestion') {
-    mail({
-      user: 'lmmclean08@gmail.com',
-      pass: 'LMylesM03'
-    }, {
-      to: 'lmmclean08@gmail.com',
-      subject: req.query.name + ' reported a bug!',
-      html: render(req.query.questionData)
-    }, function(err) {
-      if (err) {
-        console.log(err);
-        res(400, 'text/plain', 'question has encountered an error');
-      }
-      else {
-        res(200, 'text/plain', 'question has been submitted');
-      }
-    });
   }
   else if (req.pathname == '/addserver') {
     fs.readFile('serverdb.json', function(err, data) {
