@@ -9,7 +9,8 @@ Click [here](math-shoot-download.md) to download Math Shoot.
 Click [here](world-archive.md) to get the world download for our Minecraft server, Neocraft.  
 Click [here](robot.md) to add my discord bot, Ro.Bot.  
 Click [here](so_u_think_u_can_linux/sytycl.md) to see an article I wrote about Linux.  
-Click [here](framebuffer.md) to see an article I wrote about the Linux framebuffer.
+Click [here](framebuffer.md) to see an article I wrote about the Linux framebuffer.  
+Click [here](isp.md) to see an article I wrote about creating an ISP.
 ## What I'm working on
 Right now I'm working on a game by myself and Noah Bell, (aka. [WHERES-HARRY](https://github.com/WHERES-HARRY)) called [Throbots](https://github.com/thecoder08/throbots).
 
