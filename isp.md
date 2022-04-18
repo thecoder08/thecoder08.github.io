@@ -2,7 +2,7 @@
 
 So, you want to make you own ISP?
 
-Well, that's a pretty big project! If you're willing to put in the time and money, it could be a pretty 
+Well, that's a pretty big project! If you're willing to put in the time and money, it could be a pretty profitable business.
 
 Click [here](/) to return to the home page.
 
