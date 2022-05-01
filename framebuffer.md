@@ -1,7 +1,7 @@
 # The Linux Framebuffer
 The Linux framebuffer is a beautiful thing. Why? Because of its simplicity. Linux (and other *nix operating systems) abstact hardware devices away by creating files in the `/dev` directory. These aren't real files, but when they are written to or read from, they communicate with some device attached to your system.
 
-There are some files in this `/dev` directory that have a name that looks like `fbN`, where N is a number, starting from 0. These files are so-called "framebuffer devices"; provided by the framebuffer driver for your video card. For example, if you had an Intel chipset video card, the framebuffer device would be provided by the `intelfb` kernel module. Every video card manufacturer had its own framebuffer driver. There was also a driver called `vesafb` for VESA-compatible video cards.
+There are some files in this `/dev` directory that have a name that looks like `fbN`, where N is a number, starting from 0. These files are so-called "framebuffer devices"; provided by the framebuffer driver for your video card. For example, if you had an Intel chipset video card, the framebuffer device would be provided by the `intelfb` kernel module. Every video card manufacturer had its own framebuffer driver. There was also a driver called `vesafb` for VESA/VGA-compatible video cards.
 
 Technically, the framebuffer API is obsolete with the advent of DRM (Direct Rendering Manager) which adds features like hardware acceleration on GPUs that support it.
 
