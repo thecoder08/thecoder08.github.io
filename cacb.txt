@@ -1,0 +1,29 @@
+CACB Communication standards
+----------------------------
+
+Requesting permission to land
+
+Pilot: Tower this is <CODE>, requesting permission to land.
+Tower: <CODE>, permission to land on runway <RUNWAY>.
+Pilot: <CODE>, runway <RUNWAY>. (optional message)
+
+Requesting permission to take off
+
+Pilot: Tower this is <CODE>, requesting permission to take off.
+Tower: <CODE>, permission to take off on runway <RUNWAY>.
+Pilot: <CODE>, runway <RUNWAY>. (optional message)
+
+Flight to tower
+
+Pilot: Tower this is <CODE>, <MESSAGE>.
+Tower: <CODE>, <MESSAGE>.
+
+Tower to flight
+
+Tower: <CODE> this is tower, <MESSAGE>.
+Pilot: <CODE>, <MESSAGE>.
+
+flight to flight
+
+Pilot 1: <PILOT 2's CODE> this is <PILOT 1'S CODE>, <MESSAGE>.
+Pilot 2: <PILOT 1'S CODE>, <MESSAGE>.
