@@ -109,7 +109,3 @@ Almost done! After Tasksel is done running, we just need to install GRUB, the GR
 Congradulations! You just installed Linux! But: lemme let you in on a little secret: The entire installation wizard used to install Linux WAS Linux, running off the USB! Anyways, to try out your new Debian installation, reboot. Make sure to take out the USB stick. When the computer starts up you should see a menu with one entry for each OS installed on the computer. Maybe its just Linux, or maybe you also have Windows in the list. This is where you choose the OS to boot when starting up.
 
 OK, it's getting late. That's it for me. Have fun with Linux! :D
-
-Click [here](/) to return to the home page.
-
-<title>So you think you can Linux?</title>

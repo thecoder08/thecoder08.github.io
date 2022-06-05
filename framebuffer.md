@@ -84,6 +84,3 @@ var fb = new Framebuffer('/dev/fb0');
 fb.drawRectangle(100, 100, 50, 50, colors.blue);
 ```
 Alright, that's it. It's just something cool that I learned how to do and I thought that I'd share it! 'Till next time!
-
-Click [here](/) to return to the home page.
-<title>The Linux Framebuffer</title>

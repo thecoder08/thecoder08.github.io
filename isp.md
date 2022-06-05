@@ -19,7 +19,3 @@ Eventually, a customer will want to have service. To connect them to the network
 Along with internet, you may want to provide some simple analog TV. For this you'll need some C band satellite dishes. These are for getting TV signals directly from the TV stations themselves. These signals need to be multiplexed together into a single coaxial cable along with your internet connection. You can set this up in customers' houses very simply. Just split their cable between lines to the TVs and a line to the modem.
 
 More and more clients will wants to join your network and eventually the cost of the infrastructure will be paid off, and you'll be running a successful ISP! Thanks for reading!
-
-Click [here](/) to return to the home page.
-
-<title>How to start an ISP</title>

@@ -32,6 +32,3 @@ NOTE: This was not made by me! This is a cover by Charles Cornell. I just edited
 <audio controls src="cuz.wav"></audio>
 ## Pollution
 <audio controls src="Pollution.mp3"></audio>
-
-Click [here](/) to return to the home page.
-<title>Music</title>

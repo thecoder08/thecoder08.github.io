@@ -4,7 +4,3 @@ I've always heard that back in the early days of computing, you could subscribe 
 [Minecraft Skin Stealer](https://gist.github.com/thecoder08/bfe458285f2a8546bf19368e996f541b)
 
 [Fibonacci Sequence in NASM](https://gist.github.com/thecoder08/3dab4263dd05cd0fc993f2cadf40d0cf)
-
-Click [here](/) to return to the home page.
-
-<title>Gists</title>

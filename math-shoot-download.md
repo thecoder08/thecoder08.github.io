@@ -19,7 +19,3 @@ Download old versions from [GitHub](https://github.com/thecoder08/math-shoot-gui
 # Mobile Version!
 [Download](https://github.com/thecoder08/math-shoot-mobile/releases/download/v1.0.2/tk.lennonswebsite.mathshoot.deb)  
 This is exciting: Math Shoot is now available for mobile!
-
-Click [here](/) to return to the home page.
-
-<title>Math Shoot Download</title>

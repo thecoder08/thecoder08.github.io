@@ -1,4 +1,3 @@
-<script data-ad-client="ca-pub-1978340545024187" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 # Lennon McLean
 Lennon McLean is a wannabe programmer who finds back-end node.js development and front-end web development interesting, and is <span style="color: red;" id="age"></span> years old. He also likes to play music.  
 Click [here](social.md) to see my social accounts.  
@@ -18,6 +17,4 @@ Right now I'm working on a game by myself and Noah Bell, (aka. [WHERES-HARRY](ht
 
 This website was made with ♥.  
 Copyright © Lennon McLean 2021. All rights reserved.
-<title>Lennon McLean</title>
-<script src="node_modules/@thecoder08/docuget/main.js"></script>
-<script>$('#age').innerHTML = new Date().getFullYear() - 2008;</script>
+<script>document.querySelector('#age').innerHTML = new Date().getFullYear() - 2008;</script>
