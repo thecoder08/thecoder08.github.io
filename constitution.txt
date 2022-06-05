@@ -2,16 +2,12 @@ Camerica Constitution
 
 Book 1: Introduction
 
-This series of books is the constitution of a city-state known officially as New Camerica, while being known publically as Camerica. It is the contiuation of a city built in Minecraft Bedrock Edition on the founder (Lennon McLean)'s Xbox One. The constitiution contains the ideals and laws of the city-state. All current citzens of the city-state of Camerica must sign the constitution in order for it to take effect.
+This series of books is the constitution of a city-state known officially as New Camerica, while being known publicly as Camerica. It is the contiuation of a city built in Minecraft Bedrock Edition on the founder (Lennon McLean)'s Xbox One. The constitution contains the ideals and laws of the city-state. The co founders of the state must sign below for it to take effect.
 
 Sign below
 
 X_Lennon McLean______ Lennon McLean
-X____________________ Noah Bell
-X____________________ SavvyPage
-X____________________ Nowl Wallace
-X____________________ Riyan Farooq
-X____________________ Cole Generic
+X_Noah Bell__________ Noah Bell
 
 Book 2: Territory
 
@@ -25,44 +21,16 @@ Camerica's government is considered a benevolent constitutional dictatorship and
 
 Book 4: Economy
 
-Camerica's economy is completely capitalist and free-market, except that the megacorporations Eclipse and CamX Industrial are completely endorsed by the government of Camerica.
+Camerica's economy is completely capitalist and free-market, except that the megacorporation CamX Industrial is completely endorsed by the government of Camerica. CamX is contracted to provide the resources required by the Government and are granted access to the Government's funds.
 
 Book 5: Rights and Freedoms
 
 Camerica grants the freedoms of thought and expression, as well as the freedom of the press to its citizens. It also grants freedom of speech in the chat as long as you follow socio-cultural rules surrounding swear words and just be a nice person. Freedom of religion is also granted, but it is recommended that you be a pandist.
 
-Book 6: Enforcement
+Book 6: Ministries and Board of Camerica
 
-Camerica's laws and constitution are upheld by the Camerica police force. They have the power and ability to kill players on sight if they are breaking a law or consitutional statement. They can also imprison players. They can't kill or imprison players for no reason; they must be breaking a law and the player must be punished in the appropriate matter, no nicer and no meaner. Full leadership of the Camerica police force and the position of police chief is granted to SavvyPage.
+The government of Camerica is divided into ministries and boards. These ministries and boards are each headed by a minister or chairman, respectively, who is appointed by the Mayor. the ministries and boards and their respective responsibilities are as follows.
 
-Book 7: Building
+Book 7: Conclusion
 
-Citizens cannot build in Camerica's territory unless they own the block that they are building in. No citizen can ever build on road territory. A citizen owns a block if the government of Camerica acknoledges so. If ownership of a block changes the government must be informed. The same laws apply for destruction.
-
-Book 8: Crime and Punishment
-
-The below is a list of punishable laws and their consequinces.
-
-Murder with items destroyed: Perminant Ban
-Murder with items intact: Month-long Ban
-Conspiring to do murder: seizure of weapons
-Robbery or theft: Year-long ban
-Constitutional offense: Perminant ban
-Riding unregistered horse: Day-long ban
-Abuse of heath services: Week-long ban
-Using unregistered portal: Week-long ban and destruction of portal
-Use of weapons without liscence or abuse of weapons: Month-long ban
-
-The court of Camerica may decide an alternative punishment if nessesary. If the offender disagrees with their punishment, they may be brought in front of the court of Camerica, where a nominated and elected jury will decide their fate.
-
-Book 9: Heath and Safety
-
-If a citizen of Camerica is injured, has low heath, or a negative status effect, they may come to the hostpital to be healed. If a fire starts and becomes out of control, The fire department with chief Nowl Wallace will be called to put out the fire. In any case of emergency, press an emergency button. A police officer will be dispatched to your location, where after speaking to you, will get the appropriate health and safety service.
-
-Book 10: Religion
-
-In Camerica, the main religion is pandism. In pandism, pandas are sacred. Need I say more?
-
-Book 11: Conclusion
-
-The Camerica consitution is by far the most important document in Camerica's history. It can should be preserved and never discarded at https://www.lennonswebsite.tk/constitution.txt.
+The Camerica constitution is by far the most important document in Camerica's history. It should be preserved and never discarded at https://lennons-website.herokuapp.com/constitution.txt
