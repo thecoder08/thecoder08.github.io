@@ -11,9 +11,7 @@ Click [here](so_u_think_u_can_linux/sytycl.md) to see an article I wrote about L
 Click [here](framebuffer.md) to see an article I wrote about the Linux framebuffer.  
 Click [here](isp.md) to see an article I wrote about creating an ISP.
 ## What I'm working on
-Right now I'm working on a game by myself and Noah Bell, (aka. [WHERES-HARRY](https://github.com/WHERES-HARRY)) called [Throbots](https://github.com/thecoder08/throbots).
-
-<span style="background-color: red; color: white;">Please get the vaccine and wear a mask! We can stop COVID-19 by taking these simple measures. Stay home and stay safe.</span>
+Currently I'm learning how to make 3D games using [Three.js](https://threejs.org).
 
 This website was made with ♥.  
 Copyright © Lennon McLean 2021. All rights reserved.
