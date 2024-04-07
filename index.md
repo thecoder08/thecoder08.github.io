@@ -1,5 +1,5 @@
 # Lennon McLean
-Lennon McLean is a wannabe programmer who finds back-end node.js development and front-end web development interesting, and is <span style="color: red;" id="age"></span> years old. He also likes to play music.  
+Lennon McLean is a wannabe programmer/engineer interested in how things work. He is <span style="color: red;" id="age"></span> years old. He also likes to play music.  
 Click [here](social.md) to see my social accounts.  
 Click [here](projects.md) to see some of my projects. (I stopped updating this a while ago - just see my Github)  
 Click [here](music.md) to stream my music.  
