@@ -581,7 +581,7 @@ The point is that it could be anything that happens next, and it really doesn't 
 ## Conclusion
 So, modern software systems on today's hardware are so complex and intricate that it really makes no sense to try and fully understand one little thing that your computer did. It's clear that I glossed over a lot in order to explain everything that I did. I didn't go over all the edge cases, additional information, and other things that the computer does. I didn't explain how the kernel works. This is all stuff for other people to explain, or for you to learn about on your own time.
 
-If you actually read this all the way through, congratulations. I'm sorry the ending maybe wasn't as satisfying as you hoped. I'm happy someone found this interesting. I'm not quite sure why I wrote this, but it's now after midnight so I should get some sleep. If you have question, comments, or corrections, I guess you can send me an [email](mailto:lmmclean08@gmail.com).
+If you actually read this all the way through, congratulations. I'm sorry the ending maybe wasn't as satisfying as you hoped. I'm happy someone found this interesting. I'm not quite sure why I wrote this, but it's now after midnight so I should get some sleep. If you have questions, comments, or corrections, I guess you can send me an [email](mailto:lmmclean08@gmail.com).
 
 Thank you for reading.
 
