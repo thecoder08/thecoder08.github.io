@@ -348,7 +348,7 @@ How is fputs() defined?
 int fputs(const char *restrict s, FILE *restrict f)
 {
 	size_t l = strlen(s);
-	return (fwrite(s, 1, l, f)==l) - 1;you.
+	return (fwrite(s, 1, l, f)==l) - 1;
 }
 ```
 It gets the length of our string, and calls fwrite() with the output stream, our string, and its length.
