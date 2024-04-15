@@ -150,9 +150,9 @@ This is a list of, among other things, the libraries that our code depends on. I
 ```
 0x0000000000000001 (NEEDED)             Shared library: [libc.so.6]
 ```
-The is our system's standard C library, a collection of routines and functions used by nearly all of the programs on our computer. In Windows-land, this is equivalent to the C runtime, either `msvcrt.dll` or `ucrt<something>.dll`. One thing to note is that files in Linux with the extension `.so`, called Shared Objects, are equivalent to files in Windows with the extension `.dll`, called Dynamically Linked Libraries. They both contain code that can be shared between muliple programs.
+The is our system's standard C library, a collection of routines and functions used by nearly all of the programs on our computer. In Windows-land, this is equivalent to the C runtime, either `msvcrt.dll` or `ucrt<something>.dll`. One thing to note is that files in Linux with the extension `.so`, called Shared Objects, are equivalent to files in Windows with the extension `.dll`, called Dynamically Linked Libraries. They both contain code that can be shared between multiple programs.
 
-So we could repeat the process of using `objdump` to find where this code is in our C library, and what it does, but the C library is huge and complex, and we haven't even got to the code we wrote yet. So I'll save you the trouble: it does some initialisation, like getting our program's command-line parameters and environment variables, and calls our `main()` function. Then when we return from `main()`, it exits our progran with the status code we provide.
+So we could repeat the process of using `objdump` to find where this code is in our C library, and what it does, but the C library is huge and complex, and we haven't even got to the code we wrote yet. So I'll save you the trouble: it does some initialisation, like getting our program's command-line parameters and environment variables, and calls our `main()` function. Then when we return from `main()`, it exits our program with the status code we provide.
 
 So where is our main function?
 ## main()
