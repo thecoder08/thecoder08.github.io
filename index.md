@@ -10,7 +10,8 @@ Click [here](robot.md) to add my discord bot, Ro.Bot.
 Click [here](so_u_think_u_can_linux/sytycl.md) to see an article I wrote about Linux.  
 Click [here](framebuffer.md) to see an article I wrote about the Linux framebuffer.  
 Click [here](isp.md) to see an article I wrote about creating an ISP.  
-Click [here](hello-world.md) to read an article about a deep dive into how a modern Hello World program actually works.
+Click [here](hello-world.md) to read an article about a deep dive into how a modern Hello World program actually works.  
+Click [here](3d/3d.md) to learn about how computers render 3D graphics.
 ## What I'm working on
 A curling game written in C# using OpenTK. Check it out [here](https://github.com/thecoder08/curling).
 
