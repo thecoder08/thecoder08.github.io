@@ -150,9 +150,9 @@ This is a list of, among other things, the libraries that our code depends on. I
 ```
 0x0000000000000001 (NEEDED)             Shared library: [libc.so.6]
 ```
-The is our system's standard C library, a collection of routines and functions used by nearly all of the programs on our computer. In Windows-land, this is equivalent to the C runtime, either `msvcrt.dll` or `ucrt<something>.dll`. One thing to note is that files in Linux with the extension `.so`, called Shared Objects, are equivalent to files in Windows with the extension `.dll`, called Dynamically Linked Libraries. They both contain code that can be shared between muliple programs.
+The is our system's standard C library, a collection of routines and functions used by nearly all of the programs on our computer. In Windows-land, this is equivalent to the C runtime, either `msvcrt.dll` or `ucrt<something>.dll`. One thing to note is that files in Linux with the extension `.so`, called Shared Objects, are equivalent to files in Windows with the extension `.dll`, called Dynamically Linked Libraries. They both contain code that can be shared between multiple programs.
 
-So we could repeat the process of using `objdump` to find where this code is in our C library, and what it does, but the C library is huge and complex, and we haven't even got to the code we wrote yet. So I'll save you the trouble: it does some initialisation, like getting our program's command-line parameters and environment variables, and calls our `main()` function. Then when we return from `main()`, it exits our progran with the status code we provide.
+So we could repeat the process of using `objdump` to find where this code is in our C library, and what it does, but the C library is huge and complex, and we haven't even got to the code we wrote yet. So I'll save you the trouble: it does some initialisation, like getting our program's command-line parameters and environment variables, and calls our `main()` function. Then when we return from `main()`, it exits our program with the status code we provide.
 
 So where is our main function?
 ## main()
@@ -348,7 +348,7 @@ How is fputs() defined?
 int fputs(const char *restrict s, FILE *restrict f)
 {
 	size_t l = strlen(s);
-	return (fwrite(s, 1, l, f)==l) - 1;you.
+	return (fwrite(s, 1, l, f)==l) - 1;
 }
 ```
 It gets the length of our string, and calls fwrite() with the output stream, our string, and its length.
@@ -581,7 +581,7 @@ The point is that it could be anything that happens next, and it really doesn't 
 ## Conclusion
 So, modern software systems on today's hardware are so complex and intricate that it really makes no sense to try and fully understand one little thing that your computer did. It's clear that I glossed over a lot in order to explain everything that I did. I didn't go over all the edge cases, additional information, and other things that the computer does. I didn't explain how the kernel works. This is all stuff for other people to explain, or for you to learn about on your own time.
 
-If you actually read this all the way through, congratulations. I'm sorry the ending maybe wasn't as satisfying as you hoped. I'm happy someone found this interesting. I'm not quite sure why I wrote this, but it's now after midnight so I should get some sleep. If you have questions, comments, or corrections, I guess you can send me an [email](mailto:lmmclean08@gmail.com).
+If you actually read this all the way through, congratulations. I'm sorry the ending maybe wasn't as satisfying as you hoped. I'm happy someone found this interesting. I'm not quite sure why I wrote this, but it's now after midnight so I should get some sleep.
 
 Thank you for reading.
 
