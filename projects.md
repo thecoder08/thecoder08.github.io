@@ -18,7 +18,7 @@ A processor/system emulator and assembler for my custom 8/16-bit CPU architectur
 ## [my-os](https://github.com/thecoder08/my-os) (C)
 An "Operating system" with basic drivers for keyboard, VGA, disk, ... It doesn't have functional scheduling, user space, memory allocation/virtual memory, ...
 
-## [curling](httpz://github.com/thecoder08/curling.git) (C#)
+## [curling](https://github.com/thecoder08/curling.git) (C#)
 A curling simulation video game with a custom 3D engine made with OpenGL (via the OpenTK library) and a custom physics engine (which is a bit finicky). See if you can figure out the controls. Inspired by BillardGL.
 
 ## Honorable mentions
