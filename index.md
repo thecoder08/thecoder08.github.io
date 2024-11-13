@@ -12,6 +12,7 @@ Click [here](framebuffer.md) to see an article I wrote about the Linux framebuff
 <!--Click [here](isp.md) to see an article I wrote about creating an ISP.  -->
 Click [here](hello-world.md) to read an article about a deep dive into how a modern Hello World program actually works.  
 Click [here](3d/3d.md) to learn about how computers render 3D graphics. (incomplete)
+Click [here](nis.md) to read an article about NIS, NSS, NFS, and how remote sign-in and SSO are done on unix-based networks.
 ## What I'm working on
 A 3D-printed electronic gyroscope with a software display. Check it out [here](https://github.com/thecoder08/gyro).
 
