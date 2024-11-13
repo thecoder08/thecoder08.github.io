@@ -1,7 +1,7 @@
 # Lennon McLean
 Lennon McLean is a wannabe programmer/engineer interested in how things work. He is <span style="color: red;" id="age"></span> years old. He also likes to play music.  
 Click [here](social.md) to see my social accounts.  
-Click [here](projects.md) to see some of the projects that I'm most around of.  
+Click [here](projects.md) to see some of the projects that I'm most proud of.  
 Click [here](music.md) to stream my music.  
 Click [here](gists.md) to see my weekly posts of gists. (stopped doing this)  
 Click [here](math-shoot-download.md) to download Math Shoot.  
