@@ -17,4 +17,4 @@ A curling game written in C# using OpenTK. Check it out [here](https://github.co
 
 This website was made with ♥.  
 Copyright © Lennon McLean 2024. All rights reserved.
-<script>document.querySelector('#age').innerHTML = new Date().getFullYear() - 2008;</script>
+<script>document.querySelector('#age').innerHTML = new Date(new Date() - new Date('2008-09-03') + 1000*60*60*24).getFullYear() - 1970;</script>
