@@ -13,7 +13,7 @@ mov eax, [a]
 add eax, [b]
 mov [c], eax
 ```
-In this example, the `eax` register is used to hold the value of the first value, a, before it is added to b. It then holds the value of a + b before it is written back to memory, in c. In many CPU architectures, it's only possible to perform one memory access per instruction*, So you have to use registers to hold data between instructions.
+In this example, the `eax` register is used to hold the value of the first number, a, before it is added to b. It then holds the value of a + b before it is written back to memory, in c. In many CPU architectures, it's only possible to perform one memory access per instruction*, So you have to use registers to hold data between instructions.
 
 This is the list of registers available in the x86 architecture:
 
