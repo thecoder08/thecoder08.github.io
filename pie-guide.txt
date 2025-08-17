@@ -1,0 +1,8 @@
+Guide to making an assembly program position-independent
+--------------------------------------------------------
+
+- Replace all instances of `mov reg, symbol` with `lea reg, [rel symbol]`
+- Replace all instances of `mov reg, [symbol]` with `mov reg, [rel symbol]`
+- Replace all instances of `call symbol` with `call symbol wrt ..plt`
+
+[rel symbol] Actually means [rip + (offset to symbol)]
