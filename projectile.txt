@@ -1,0 +1,61 @@
+The equation to find the distance over the ground (range), R, of a projectile fired over level ground in a vacuum is as follows:
+
+R=(v^2 sin 2theta)/g
+Where v is the magnitude of the initial velocity of the projectile, theta is the angle of elevation, and g is the gravitational field strength, 9.8 m/s^2 on earth.
+
+How do we derive this equation?
+
+The coordinates of a projectile in 2D space at a particular moment in time can be expressed as an ordered pair, (d(t), h(t)),
+where d(t) is the horizontal distance from the starting point, and h(t) is the vertical height from the starting elevation.
+
+h(t) can be defined as follows, assuming h(0)=0:
+h(t)=-1/2gt^2 + v_y t
+
+d(t) can be defined as follows, again assuming d(0)=0:
+d(t)=v_x t
+
+We want to find the distance that the projectile traveled when it hit the ground. To do so, we first need to find the time when it hit the ground,
+that is, we need to find t such that h(t)=0.
+
+h(t)=-1/2gt^2 + v_y t
+   0=t(-1/2gt + v_y)
+   t=0, -1/2gt + v_y=0
+              -1/2gt=-v_y
+                  gt=2v_y
+                   t=2v_y/g
+
+So the projectile hits the ground at t=2v_y/g. To find the distance from the starting point that it lands, we sub this expression for t
+into d(t), which gives us R.
+
+R = v_x t
+  = v_x 2v_y/g
+  = (2 v_x v_y)/g
+
+The horizontal and verical components of the initial velocity can be expressed as the ordered pair (v_x, v_y),
+but can also be written as the ordered pair (v cos theta, v sin theta).
+
+R = (2 v cos(theta) v sin (theta))/g
+R = (v^2 2sin(theta)cos(theta))/g
+
+The final step is to use the trig identity sin 2theta = 2sin(theta)cos(theta)
+
+R = (v^2 sin 2theta)/g
+
+From here we can see that the maximum range R for constant v and g will occur when sin 2theta = 1.
+Solving this for theta gives us the angle that allows for the maximum range.
+
+0 < theta < pi.
+sin 2theta = 1.
+
+Let m=2theta.
+0 < m < 2pi.
+sin m = 1.
+m = pi/2.
+
+theta = pi/4. (Or theta = 45 degrees.)
+
+Note that for a constant v and g, there are two angles theta that result in the same distance for R. Both of these values
+for theta are between 0 and 90 degrees, but one is greater than 45 degrees and one is less than 45 degrees. This means
+that there are two possible angles for the projectile to be fired at for it to reach the desired target.
+(Except for the case when theta = 45 degrees exactly.) Mortars and long-range artillery typically fire their shells
+at angles of elevation greater than 45 degrees, because it allows the shell to avoid more obstacles.

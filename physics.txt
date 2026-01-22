@@ -1,0 +1,47 @@
+In grade 11 physics, we dealt with situations where F_net was always a constant. It's possible that there were multiple forces acting on the object, but the direction and magnitude of the forces never changed over time.
+
+For example, consider a car accelerating down a road. The car has four main forces acting on it: The force of gravity pulling it down, the normal force of the road pushing the car back up, the applied force of the engine, and the friction of the car against the road. Each of these forces was modelled in a way that their values didn't change over time. The force of gravity was modelled using F_g=m*g, where m and g are both constants. F_norm was set equal and opposite to gravity. F_fric, the kinetic friction, was modelled as mu*F_norm, where mu is a constant. and the applied force was also modelled with a constant, i.e. F_app = 20N. Let's say the car masses 1kg, so F_norm is about 10N. Let's say mu=1, so F_fric is also 10N. F_g and F_norm cancel out so F_net=F_app-F_fric =20N-10N =10N. We could then use newton's second law, F_net=m*a, or a=F_net/m. So a=10N/1kg =10m/s^2.
+
+We could then plug this constant acceleration into one of the kinematic equations, s=1/2at^2+v_i*t, where s is displacement and v_i is the initial velocity of the car. This tells us the distance that the car moves after t seconds of the constant acceleration.
+
+Where does this kinematic equation come from? The answer is calculus. We start setting acceleration, which is the second derivative of displacement with respect to time, to a constant a, then integrate twice with respect to time.
+```
+d^2s/dt^2=a
+Int(d^2s/dt^2)dt=Int(a)dt
+ds/dt=at+v_0    (v_0 is the constant of integration, +C)
+Int(ds/dt)dt=Int(at+v_0)dt
+s=1/2at^2+v_0*t+s_0 (s_0 is the second constant of integration, +C)
+```
+If we consider s to represent a displacement (change in position), then we can omit the inital position s_0.
+
+But what if we don't have a constant force, and thus a constant acceleration? In that case, there are two possibilities. Either acceleration is then a function of time, which is relatively easy to deal with using basic calculus, or acceleration is a function of position, in which case we have to use the techniques of differential equations to find an equation of motion.
+
+For example, consider a situation where force, and thus acceleration, increases linearly over time. We can model this with the function a(t)=mt+a_0, where m is the rate that the acceleration is increasing, and a_0 is the initial acceleration.
+
+We can then find an equation of motion as follows:
+```
+d^2s/dt^2=a(t)
+         =mt+a_0
+ds/dt=1/2mt^2+a_0*t+v_0
+s=1/6mt^3+1/2a_0t^2+v_0*t+s_0
+```
+Obviously, if were were to plug our definition for a(t) into the kinematic equation, we would not end up with the correct result.
+
+But what happens when acceleration is a function of position? For example, consider Hooke's law for a spring. It says that the force exerted by a spring compressed a certain distance can be modelled using the equation F=-kx, where k is the spring constant and x is the displacement of the spring. the negative sign indicates that the force acts in the opposite direction to the compression of the spring. So the motion can be modelled as follows:
+```
+d^2x/dt^2=-kx/m
+```
+
+We can't use normal integration rules in this situation, because acceleration is a function of position, rather than time. I won't go into the details of the math here, but consider what you would expect the equation of motion to look like. When a compressed spring is attached to a mass and released, you can intuitively guess that the mass will oscillate back and forth, in a periodic function. So the equation of motion for this situation, and any situation where you have an equation that looks like d^2x/dt^2=-x, is going to be a combination of sin and cos. The specifics depend on the initial displacement and velocity of the mass attached to the spring.
+
+Another situation that you might encounter is where force is proportional to velocity, for example, in the case of drag on an object due to a viscous fluid or air resistance at low speeds. This can be modelled by the equation
+```
+d^2x/dt^2=(-mu*dx/dt)/m
+```
+Integrating once gives us
+```
+dx/dt=(-mu/m)*x+v_0
+```
+The solution to differential equations that look like dx/dt=-x are always of the form e^-x, So this tells us that our object will undergo exponential decay in displacement, velocity, and acceleration. This makes sense because it tells us that the object will gradually slow down more and more slowly, getting closer and closer to, but never moving past, a specific point.
+
+These are concepts that would generally be taught in a university-level mechanics course, after students have taken an integral calculus course. (calc II)
