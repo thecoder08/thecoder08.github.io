@@ -2,7 +2,7 @@
 Lennon McLean is a wannabe engineer interested in learning how things work. He is <span style="color: red;" id="age"></span> years old. He also likes to play music.  
 Click [here](social.md) to see my social accounts.  
 Click [here](projects.md) to see some of the projects that I'm most proud of.  
-Click [here](music.md) to stream my music.  
+<!--Click [here](music.md) to stream my music.   -->
 Click [here](gists.md) to see my weekly posts of gists. (stopped doing this)  
 <!--Click [here](math-shoot-download.md) to download Math Shoot.  -->
 Click [here](world-archive.md) to get the world download for our Minecraft server, Neocraft.  
