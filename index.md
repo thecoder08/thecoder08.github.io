@@ -1,13 +1,13 @@
 # Lennon McLean
-Lennon McLean is a wannabe programmer/engineer interested in how things work. He is <span style="color: red;" id="age"></span> years old. He also likes to play music.  
+Lennon McLean is a wannabe engineer interested in learning how things work. He is <span style="color: red;" id="age"></span> years old. He also likes to play music.  
 Click [here](social.md) to see my social accounts.  
 Click [here](projects.md) to see some of the projects that I'm most proud of.  
 Click [here](music.md) to stream my music.  
 Click [here](gists.md) to see my weekly posts of gists. (stopped doing this)  
-Click [here](math-shoot-download.md) to download Math Shoot.  
+<!--Click [here](math-shoot-download.md) to download Math Shoot.  -->
 Click [here](world-archive.md) to get the world download for our Minecraft server, Neocraft.  
-Click [here](robot.md) to add my discord bot, Ro.Bot.  
-Click [here](so_u_think_u_can_linux/sytycl.md) to see an article I wrote about Linux.  
+<!--Click [here](robot.md) to add my discord bot, Ro.Bot.  -->
+<!--Click [here](so_u_think_u_can_linux/sytycl.md) to see an article I wrote about Linux.  -->
 Click [here](framebuffer.md) to see an article I wrote about the Linux framebuffer.  
 <!--Click [here](isp.md) to see an article I wrote about creating an ISP.  -->
 Click [here](hello-world.md) to read an article about a deep dive into how a modern Hello World program actually works.  
