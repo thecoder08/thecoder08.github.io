@@ -1,5 +1,6 @@
 # Lennon McLean
-Lennon McLean is a wannabe engineer interested in learning how things work. He is <span style="color: red;" id="age"></span> years old. He also likes to play music.  
+Lennon McLean is a wannabe engineer interested in learning how things work. He is <span style="color: red;" id="age"></span> years old. He also likes to record music.  
+I'm currently studying at the [University of Guelph](https://www.uoguelph.ca/engineering) for a B.Eng. in systems & computing.
 Click [here](social.md) to see my social accounts. (Music posted on instagram)  
 Click [here](projects.md) to see some of the projects that I'm most proud of.  
 <!--Click [here](music.md) to stream my music.   -->
