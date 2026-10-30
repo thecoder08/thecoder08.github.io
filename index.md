@@ -16,8 +16,9 @@ Click [here](nis.md) to read an article about NIS, NSS, NFS, and how remote sign
 Click [here](bytes.md) to learn about how computers work in bytes, not bits.  
 Click [here](sound/sound.md) to learn about the history of sound recording.
 ## What I'm working on
-A 3D-printed electronic gyroscope with a software display. Check it out [here](https://github.com/thecoder08/gyro).
+Mostly school at the moment. For our design project we're building a robot thingy.  
+Over the summer I worked on designing, building, and programming a quadcopter drone. I might post about it online once I get it working.
 
-This website was made with ♥.  
-Copyright © Lennon McLean 2024. All rights reserved.
+This website was made with ♥ in 🇨🇦.  
+Copyright © Lennon McLean 2026. All rights reserved.
 <script>document.querySelector('#age').innerHTML = new Date(new Date() - new Date('2008-09-03') + 1000*60*60*24).getFullYear() - 1970;</script>
