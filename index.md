@@ -1,7 +1,7 @@
 # Lennon McLean
 Lennon McLean is a wannabe engineer interested in learning how things work. He is <span style="color: red;" id="age"></span> years old. He also likes to record music.  
-I'm currently studying at the [University of Guelph](https://www.uoguelph.ca/engineering) for a B.Eng. in systems & computing.
-Click [here](social.md) to see my social accounts. (Music posted on instagram)  
+I'm currently studying at the [University of Guelph](https://www.uoguelph.ca/engineering) for a B.Eng. in Systems & Computing.
+Click [here](social.md) to see my social accounts. (Music posted on Instagram)  
 Click [here](projects.md) to see some of the projects that I'm most proud of.  
 <!--Click [here](music.md) to stream my music.   -->
 Click [here](gists.md) to see my weekly posts of gists. (stopped doing this)  
@@ -13,7 +13,7 @@ Click [here](framebuffer.md) to see an article I wrote about the Linux framebuff
 <!--Click [here](isp.md) to see an article I wrote about creating an ISP.  -->
 Click [here](hello-world.md) to read an article about a deep dive into how a modern Hello World program actually works.  
 Click [here](3d/3d.md) to learn about how computers render 3D graphics. (incomplete)  
-Click [here](nis.md) to read an article about NIS, NSS, NFS, and how remote sign-in and SSO are done on unix-based networks.  
+Click [here](nis.md) to read an article about NIS, NSS, NFS, and how remote sign-in and SSO are done on *nix-oriented computer networks.  
 Click [here](bytes.md) to learn about how computers work in bytes, not bits.  
 Click [here](sound/sound.md) to learn about the history of sound recording.
 ## What I'm working on

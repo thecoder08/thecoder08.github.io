@@ -25,7 +25,8 @@ A curling simulation video game with a custom 3D engine made with OpenGL (via th
 - [Throbots](https://github.com/2squaredstudios/throbots) (JS) - A multiplayer 2D platformer I made with a friend. (uses NW.js)
 - [raytracer](https://github.com/thecoder08/raytracer) (C) - A very slow path-tracing raytracer that can render spheres and triangles. Inspired by [this video](https://www.youtube.com/watch?v=Qz0KTGYJtUk).
 - [coyote](https://github.com/thecoder08/coyote) (JS) - A compiled programming language that compiles to NASM assembly code. Expect segfaults and don't expect to do anything fancy with it.
-- [lenux](https://github.com/thecoder08/lenux) (JS) - A linux distribution where I rewrote all of the userspace programs in node.js. Great example of the tool/hammer/problem/nail situation.
+- [lenux](https://github.com/thecoder08/lenux) (JS) - A Linux distribution where I rewrote all of the userspace programs in node.js. Great example of the tool/hammer/problem/nail situation.
+- [diff-eqns](https://github.com/thecoder08/diff-eqns) (Zig/C) - A collection of Zig and C programs that numerically solve and display a selection of various differential equations. (PDEs and ODEs)
 
 ## And more
 Check out my Github profile to see everything.
